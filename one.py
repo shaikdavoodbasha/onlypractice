@@ -7,4 +7,4 @@ again_sorted = sorted(return_arr)
 if(len(again_sorted)>1):
   print("The largest is {} ,The second largest is {}".format(again_sorted[-1],again_sorted[-2]))
 else:
-  print("No second largets element is presented")
+  print("No second largets element is presented")1   
